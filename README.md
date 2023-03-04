@@ -1,2 +1,2 @@
 # herramientas3_AppBanco
-streamlit / API predicción banco
+Parcial 1 - streamlit / API predicción banco
