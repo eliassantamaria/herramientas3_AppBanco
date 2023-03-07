@@ -8,7 +8,7 @@ import ssl
 import os
 import json
 
-model = pickle.load(open("/content/drive/MyDrive/Herramientas III/model.pkl","rb"))
+model = pickle.load(open("model.pkl","rb"))
 
 data = {
 
